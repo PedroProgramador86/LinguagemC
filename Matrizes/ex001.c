@@ -6,7 +6,7 @@ elementos entre 15 e 20.
 *******************************************************************************/
 #include <stdio.h>
 
-int main()
+int main(void)
 {
 
     int i, j;
